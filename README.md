@@ -9,6 +9,7 @@ Each tracked variable and tested intervention advances both goals forward — he
 
 ## REPO STRUCTURE
 
+'''
 FLUX/ 
 ├── README.md 
 ├── core/             # System logic 
@@ -23,6 +24,7 @@ FLUX/
 ├── 04_visualization/ # Charts and dashboard design 
 ├── 05_case_studies/  # Reference examples and related work 
 └── 06_experiments/   # Pilot studies and intervention results
+'''
 
 
 ## WHAT FLUX TRACKS
