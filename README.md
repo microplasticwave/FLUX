@@ -10,21 +10,21 @@ Each tracked variable and tested intervention advances both goals forward — he
 ## REPO STRUCTURE
 
 FLUX/
-
 ├── README.md
-├── core/          # System logic  
-├── configs/       # Tracking schemas  
-├── scripts/       # Logging scripts  
-├── database/      # SQLite storage  
-├── analysis/      # Data analysis files  
-└── research/      # Study documentation  
-    ├── 00_index.md       # Overview of all research documents  
-    ├── 01_foundations/   # Core principles and background  
-    ├── 02_methodology/   # Study design and variable definitions  
-    ├── 03_analysis/      # Data analysis fundamentals and correlation methods  
-    ├── 04_visualization/ # Charts and dashboard design  
-    ├── 05_case_studies/  # Reference examples and related work  
+├── core/             # System logic
+├── configs/          # Tracking schemas
+├── scripts/          # Logging scripts
+├── database/         # SQLite storage
+├── analysis/         # Data analysis files
+└── research/         # Study documentation
+    ├── 00_index.md       # Overview of all research documents
+    ├── 01_foundations/   # Core principles and background
+    ├── 02_methodology/   # Study design and variable definitions
+    ├── 03_analysis/      # Data analysis fundamentals and correlation methods
+    ├── 04_visualization/ # Charts and dashboard design
+    ├── 05_case_studies/  # Reference examples and related work
     └── 06_experiments/   # Pilot studies and intervention results
+
 
 ## WHAT FLUX TRACKS
 
