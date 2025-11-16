@@ -1,4 +1,3 @@
-
 ## OVERVIEW
 
 FLUX is a personal operating system and self-experimentation framework where I collect behavioral data and analyze productivity patterns.
