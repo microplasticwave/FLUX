@@ -29,28 +29,40 @@ FLUX/
 
 ## WHAT FLUX TRACKS
 
-FLUX logs data twice a day—morning reflections and evening assessments—covering the variables demonstrated by research to influence focus, cognitive load, and daily performance.
+FLUX logs data twice a day—morning reflections and evening assessments—covering the variables demonstrated by research to influence focus, cognitive load, and daily performance, in order to capture the conditions that shape how the day begins, how it unfolds, and what ultimately affects performance. The current variables form the baseline tracking set for Phase 1 and will evolve as patterns emerge.
 
 ### Morning Check-in
 
-I record factors that set the baseline for the day:
+These factors define the day’s starting conditions:
 
 - **Sleep:** hours, quality, restfulness, sleep-onset time  
 - **Context:** caffeine timing, late meals, evening screen exposure—factors that may have influenced sleep quality  
 - **Expected Cognitive Load:** planned tasks, anticipated mental demand, time pressure, and confidence in the day’s plan  
 
-This captures how well the day starts and what conditions shape the first few hours.
+This establishes the initial conditions used to evaluate the evening outcomes.
 
 ### Evening Review
 
-I document what actually happened:
+These variables record what actually happened: 
 
 - **Productivity:** tasks completed, effort, output quality, and satisfaction  
 - **Study:** total hours, focus level, completion ratio, and study effectiveness  
 - **Workout:** duration, intensity, exertion, and recovery signals  
-- **Experienced Cognitive Load:** actual mental demand, time pressure, and fatigue—compared to what I expected  
+- **Experienced Cognitive Load:** actual mental demand, time pressure, and fatigue—compared to morning expectations  
 
-Every variable is designed for long-term pattern recognition, grounded in behavioral science principles, and structured to reveal what consistently drives my best—and worst—performance days.
+Every variable is designed for long-term pattern recognition, grounded in behavioral science principles, and captures the gap between expectation and reality where meaningful patterns tend to appear.
+
+---
+
+### Evolving & Derived Metrics
+
+FLUX is intentionally designed to grow with the dataset. As analysis deepens, the tracking system will expand and refine itself:
+
+- **Derived indicators:** productivity ratios, efficiency indices, sleep-effectiveness metrics  
+- **Composite variables:** weighted combinations of cognitive load, effort, and outcome quality  
+- **Schema evolution:** adding variables that show predictive value, removing ones that don’t, and updating definitions for clarity and reliability  
+
+All schema updates will be version-tracked to preserve dataset integrity across phases.
 
 ## PROJECT PHASES
 
