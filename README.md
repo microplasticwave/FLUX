@@ -134,5 +134,6 @@ FLUX progresses through five structured phases—from building consistent loggin
 - Evaluate outcomes (`hypothesis_log.md`, `intervention_results.md`)  
 **Status:** Future work
 
+---
 
-Phase 1 of data collection is underway; repository will expand as FLUX progresses through analysis, visualization, and experimentation phases.
+_Phase 1 of data collection is underway; repository will expand as FLUX progresses through analysis, visualization, and experimentation phases._
