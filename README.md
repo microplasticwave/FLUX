@@ -71,7 +71,7 @@ FLUX progresses through five structured phases—from building consistent loggin
 ---
 
 ### Phase 1: Baseline Data Collection
-**Purpose:** Build a consistent logging routine and generate the first 30 days of clean data.  
+**Purpose:** Build a consistent logging routine and generate the first 30 days of structured logs.  
 **Actions:**
 - Record morning and evening logs every day  
 - Maintain structured reflection with zero skipped entries  
@@ -101,7 +101,7 @@ FLUX progresses through five structured phases—from building consistent loggin
 - Standardize formats and validate entries  
 - Handle missing or inconsistent data  
 - Document all cleaning decisions (`pilot_study_notes.md`)  
-**Status:** Planned  
+**Status:** Starting Soon 
 
 ---
 
